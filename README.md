@@ -27,4 +27,4 @@ Html and CSS
 
 Open source
 
-Copyright (c) 2016 **Meaghan and Brian**
+Copyright (c) 2016 **Brian and Kyle**
